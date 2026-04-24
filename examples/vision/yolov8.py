@@ -29,7 +29,7 @@ taking a look at the guide created by lukewood. This resource, available at
 provides a comprehensive overview of the fundamental concepts and techniques
 required for building object detection models with KerasCV.
 """
-
+# cla recheck 2
 """shell
 pip install --upgrade git+https://github.com/keras-team/keras-cv -q
 """
