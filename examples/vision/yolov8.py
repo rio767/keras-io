@@ -136,7 +136,7 @@ jpg_files = sorted(
         if file_name.endswith(".jpg")
     ]
 )
-
+# trigger CLA recheck
 """
 The function below reads the XML file and finds the image name and path, and then
 iterates over each object in the XML file to extract the bounding box coordinates and
